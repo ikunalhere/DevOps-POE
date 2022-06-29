@@ -1,4 +1,4 @@
-public class SortDsc {    
+public class SortingArray {    
     public static void main(String[] args) {        
         //Initialize array     
         int [] arr = new int [] {5, 2, 8, 7, 1};     
