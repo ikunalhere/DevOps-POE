@@ -10,7 +10,7 @@
   
 <%  
     
-        System.out.println("Elements of original array: ");    
+   out.println("Elements of original array: ");    
         
   
 %>  
